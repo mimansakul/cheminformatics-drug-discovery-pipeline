@@ -111,6 +111,3 @@ results/
 
 ##  Author
 Mimansa Kulshrestha
-
-##  Author
-Mimansa Kulshrestha
