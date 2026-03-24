@@ -1,9 +1,9 @@
-# 💊 Cheminformatics Pipeline for Drug Discovery (EGFR Target)
+#  Cheminformatics Pipeline for Drug Discovery (EGFR Target)
 
-## 📌 Overview
+##  Overview
 This project implements an end-to-end cheminformatics pipeline for screening and ranking drug-like molecules targeting EGFR using RDKit and machine learning.
 
-## 🧠 Objectives
+##  Objectives
 - Process molecular data from SMILES
 - Identify drug-like compounds using Lipinski's Rule of Five
 - Explore chemical space using clustering
@@ -13,13 +13,13 @@ This project implements an end-to-end cheminformatics pipeline for screening and
 
 ---
 
-## 🔬 Workflow
+##  Workflow
 
 SMILES → RDKit → Descriptors → Lipinski Filter → Clustering → QSAR Model → Similarity Search → Ranking
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Python
 - RDKit
 - Pandas, NumPy
@@ -28,7 +28,7 @@ SMILES → RDKit → Descriptors → Lipinski Filter → Clustering → QSAR Mod
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 - Majority of compounds satisfied drug-likeness criteria
 - Clustering revealed distinct chemical groups
@@ -37,7 +37,7 @@ SMILES → RDKit → Descriptors → Lipinski Filter → Clustering → QSAR Mod
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 
 data/
@@ -47,12 +47,12 @@ results/
 
 ---
 
-## 💼 Applications
+##  Applications
 - Drug discovery screening
 - Ligand prioritization
 - Chemical space analysis
 
 ---
 
-## 👩‍💻 Author
+##  Author
 Mimansa Kulshrestha
